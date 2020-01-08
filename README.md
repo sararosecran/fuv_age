@@ -2,6 +2,10 @@
 
 FUV as age indicator
 
+full_analysis.py:
+Combines all of my Jupyter notebooks such that I output all plots needed for the paper. 
+
+
 sierchio_fuv.py:
 Takes in Sierchio et al. 2014 catalog and uses astroquery to pull FUV magnitudes and errors from GALEX catlog. 
 
