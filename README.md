@@ -26,3 +26,6 @@ Plots age vs. RHK to demonstate age-activity relations
 
 fuv_vs_b.py:
 Plots two-color diagram of FUV-B vs B-V using the stars form for catalogs but does not use duplicate stars
+
+mag_cuts.py:
+Reduces the sample to stars within 4.3<Mv<5.3 (ie those with solar-like magnitudes.
