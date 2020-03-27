@@ -38,3 +38,6 @@ Fits the four stellar samples individually to determine outliers and then collec
 
 import_metallicities.py:
 Gets metallicities from Casagrande 2011 to be used in the histogram showing the [Fe/H] spread and in fitting plots.
+
+fit_mg.py:
+Fits age vs Q for moving groups.#Fit just moving groups
