@@ -35,3 +35,6 @@ Finds B-V, FUV-B and Q for all catalogs
 
 individual_fits.py:
 Fits the four stellar samples individually to determine outliers and then collects all non-outlier stars into arrays.
+
+import_metallicities.py:
+Gets metallicities from Casagrande 2011 to be used in the histogram showing the [Fe/H] spread and in fitting plots.
