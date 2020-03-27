@@ -21,3 +21,5 @@ Fits age vs Q for just the field stars.
 import_data.py
 Imports stars and the properties from Isaacson, Ballering, Sierchio, and Solar Twin catalogs
 
+age_vs_rhk.py
+Plots age vs. RHK to demonstate age-activity relations
