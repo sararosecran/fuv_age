@@ -15,14 +15,14 @@ Takes in Isaacson an Fischer 2010 catalog and uses astroquery to pull FUV magnit
 ballering_fuv.py:
 Takes in Ballering et al 2013 catalog and uses astroquery to pull FUV magnitudes and errors from GALEX.
 
-fit_stars_only.py
+fit_stars_only.py:
 Fits age vs Q for just the field stars.
 
-import_data.py
+import_data.py:
 Imports stars and the properties from Isaacson, Ballering, Sierchio, and Solar Twin catalogs
 
-age_vs_rhk.py
+age_vs_rhk.py:
 Plots age vs. RHK to demonstate age-activity relations
 
-fuv_vs_b.py
+fuv_vs_b.py:
 Plots two-color diagram of FUV-B vs B-V using the stars form for catalogs but does not use duplicate stars
