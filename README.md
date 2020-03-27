@@ -44,3 +44,6 @@ Fits age vs Q for moving groups.#Fit just moving groups
 
 fit_stars_mg_clusters.py:
 Fits age vs Q for field stars, moving groups, and clusters.
+
+fuv_error.py:
+Tests the systematic error contributed by FUV measurements.
