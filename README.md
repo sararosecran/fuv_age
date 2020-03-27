@@ -29,3 +29,6 @@ Plots two-color diagram of FUV-B vs B-V using the stars form for catalogs but do
 
 mag_cuts.py:
 Reduces the sample to stars within 4.3<Mv<5.3 (ie those with solar-like magnitudes.
+
+some_mags.py:
+Finds B-V, FUV-B and Q for all catalogs
