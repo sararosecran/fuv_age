@@ -14,3 +14,6 @@ Takes in Isaacson an Fischer 2010 catalog and uses astroquery to pull FUV magnit
 
 ballering_fuv.py:
 Takes in Ballering et al 2013 catalog and uses astroquery to pull FUV magnitudes and errors from GALEX.
+
+fit_stars_only.py
+Fits age vs Q for just the field stars.
