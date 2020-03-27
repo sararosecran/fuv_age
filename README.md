@@ -32,3 +32,6 @@ Reduces the sample to stars within 4.3<Mv<5.3 (ie those with solar-like magnitud
 
 some_mags.py:
 Finds B-V, FUV-B and Q for all catalogs
+
+individual_fits.py:
+Fits the four stellar samples individually to determine outliers and then collects all non-outlier stars into arrays.
