@@ -41,3 +41,6 @@ Gets metallicities from Casagrande 2011 to be used in the histogram showing the 
 
 fit_mg.py:
 Fits age vs Q for moving groups.#Fit just moving groups
+
+fit_stars_mg_clusters.py:
+Fits age vs Q for field stars, moving groups, and clusters.
