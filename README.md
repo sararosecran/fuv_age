@@ -23,3 +23,6 @@ Imports stars and the properties from Isaacson, Ballering, Sierchio, and Solar T
 
 age_vs_rhk.py
 Plots age vs. RHK to demonstate age-activity relations
+
+fuv_vs_b.py
+Plots two-color diagram of FUV-B vs B-V using the stars form for catalogs but does not use duplicate stars
