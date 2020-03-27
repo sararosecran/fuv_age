@@ -17,3 +17,7 @@ Takes in Ballering et al 2013 catalog and uses astroquery to pull FUV magnitudes
 
 fit_stars_only.py
 Fits age vs Q for just the field stars.
+
+import_data.py
+Imports stars and the properties from Isaacson, Ballering, Sierchio, and Solar Twin catalogs
+
